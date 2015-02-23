@@ -11,7 +11,7 @@ Replace the url with your desired Date and Country preference.
 eg:
 http://www.skyscanner.net/transport/flights/nyca/ams/150310/150515/airfares-from-new-york-to-amsterdam-in-march-2015-and-may-2015.html?adults=1&children=0&infants=0&cabinclass=economy&preferdirects=false&rtn=1&outboundaltsenabled=false&inboundaltsenabled=false&<b>usrplace</b>=<b>NP</b>&_ga=1.261604493.1064652340.1416570493
 
-Make sure you replace the above userplace=LOCATION CODE from the above list.
+Make sure you replace the above <b>userplace=LOCATION CODE</b> from the above list.
 To do a realtime search, grab a new url and change it to fit in the code. 
 
 <b>It's important that you change Location and Date according to your needs. This program will try to find the cheapest flight by changing the location only.</b>
